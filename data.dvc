@@ -1,0 +1,6 @@
+outs:
+- md5: 897f3806fa6f8743bd6eb2c640dcade1.dir
+  size: 150
+  nfiles: 1
+  hash: md5
+  path: data
